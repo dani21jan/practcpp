@@ -1,2 +1,3 @@
 # practcpp
-My Repository to practice of learning cpp
+Why the hell "biaya" was not working right ???
+But i think that i use same codes.
